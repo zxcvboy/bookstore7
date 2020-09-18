@@ -1,0 +1,7 @@
+---
+applications:
+- name: bookstore7
+  path: srv/target/bookstore7-exec.jar
+  random-route: true
+  services:
+  - bookstore-hana7

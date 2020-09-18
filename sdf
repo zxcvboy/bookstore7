@@ -1,0 +1,19 @@
+[33mcommit 40eda560bbe41467bbf41580d2c426792645c7d3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: zxcvboy <zxcvboy@gmail.com>
+Date:   Fri Sep 18 09:14:47 2020 +0000
+
+    Revert "2"
+    
+    This reverts commit f8448d39e827c6e1d84df76b8a875b64d92bbba0.
+
+[33mcommit f8448d39e827c6e1d84df76b8a875b64d92bbba0[m
+Author: zxcvboy <zxcvboy@gmail.com>
+Date:   Fri Sep 18 08:50:02 2020 +0000
+
+    2
+
+[33mcommit 81fd69b04e7904c96faba090b3703e21c9bfa4b0[m
+Author: zxcvboy <zxcvboy@gmail.com>
+Date:   Fri Sep 18 08:03:46 2020 +0000
+
+    my 1st commit
